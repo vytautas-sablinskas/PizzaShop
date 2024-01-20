@@ -10,3 +10,15 @@ C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Data\o
 C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Data\obj\Debug\net7.0\refint\PizzaShop.Data.dll
 C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Data\obj\Debug\net7.0\PizzaShop.Data.pdb
 C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Data\obj\Debug\net7.0\ref\PizzaShop.Data.dll
+C:\Users\Vytautas\Desktop\PizzaShop\PizzaShop\PizzaShop.Data\bin\Debug\net7.0\PizzaShop.Data.deps.json
+C:\Users\Vytautas\Desktop\PizzaShop\PizzaShop\PizzaShop.Data\bin\Debug\net7.0\PizzaShop.Data.dll
+C:\Users\Vytautas\Desktop\PizzaShop\PizzaShop\PizzaShop.Data\bin\Debug\net7.0\PizzaShop.Data.pdb
+C:\Users\Vytautas\Desktop\PizzaShop\PizzaShop\PizzaShop.Data\obj\Debug\net7.0\PizzaShop.Data.csproj.AssemblyReference.cache
+C:\Users\Vytautas\Desktop\PizzaShop\PizzaShop\PizzaShop.Data\obj\Debug\net7.0\PizzaShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vytautas\Desktop\PizzaShop\PizzaShop\PizzaShop.Data\obj\Debug\net7.0\PizzaShop.Data.AssemblyInfoInputs.cache
+C:\Users\Vytautas\Desktop\PizzaShop\PizzaShop\PizzaShop.Data\obj\Debug\net7.0\PizzaShop.Data.AssemblyInfo.cs
+C:\Users\Vytautas\Desktop\PizzaShop\PizzaShop\PizzaShop.Data\obj\Debug\net7.0\PizzaShop.Data.csproj.CoreCompileInputs.cache
+C:\Users\Vytautas\Desktop\PizzaShop\PizzaShop\PizzaShop.Data\obj\Debug\net7.0\PizzaShop.Data.dll
+C:\Users\Vytautas\Desktop\PizzaShop\PizzaShop\PizzaShop.Data\obj\Debug\net7.0\refint\PizzaShop.Data.dll
+C:\Users\Vytautas\Desktop\PizzaShop\PizzaShop\PizzaShop.Data\obj\Debug\net7.0\PizzaShop.Data.pdb
+C:\Users\Vytautas\Desktop\PizzaShop\PizzaShop\PizzaShop.Data\obj\Debug\net7.0\ref\PizzaShop.Data.dll

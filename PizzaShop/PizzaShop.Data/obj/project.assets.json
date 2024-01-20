@@ -554,11 +554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vytautas\\Desktop\\PresentConnection užduotis\\PizzaShop\\PizzaShop.Data\\PizzaShop.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Vytautas\\Desktop\\PizzaShop\\PizzaShop\\PizzaShop.Data\\PizzaShop.Data.csproj",
       "projectName": "PizzaShop.Data",
-      "projectPath": "C:\\Users\\Vytautas\\Desktop\\PresentConnection užduotis\\PizzaShop\\PizzaShop.Data\\PizzaShop.Data.csproj",
+      "projectPath": "C:\\Users\\Vytautas\\Desktop\\PizzaShop\\PizzaShop\\PizzaShop.Data\\PizzaShop.Data.csproj",
       "packagesPath": "C:\\Users\\Vytautas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vytautas\\Desktop\\PresentConnection užduotis\\PizzaShop\\PizzaShop.Data\\obj\\",
+      "outputPath": "C:\\Users\\Vytautas\\Desktop\\PizzaShop\\PizzaShop\\PizzaShop.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

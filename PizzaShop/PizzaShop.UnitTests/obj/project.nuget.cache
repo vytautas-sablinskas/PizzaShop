@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M1mstDxGKrt8G5E3wpcgZvAPLl6pCQIYPbjOcZKvA3FjTfjY1pNV9eJb2lyT3X58atjZTkQgbtzthf9YTqMhgA==",
+  "dgSpecHash": "PrUv7lHc/asxtQbsKO/n0hsLWt/Gj0yxOydTlZO49XfhxBvvq2Ss9LJ4BFZYWYyZi4WORLG6guiSSqfpqmQ2wQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vytautas\\Desktop\\PresentConnection užduotis\\PizzaShop\\PizzaShop.UnitTests\\PizzaShop.UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\Vytautas\\Desktop\\PizzaShop\\PizzaShop\\PizzaShop.UnitTests\\PizzaShop.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vytautas\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Vytautas\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

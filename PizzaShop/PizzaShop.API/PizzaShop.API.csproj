@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PizzaShop.Database\PizzaShop.Data.csproj" />
     <ProjectReference Include="..\PizzaShop.Data\PizzaShop.Data.csproj" />
   </ItemGroup>
 

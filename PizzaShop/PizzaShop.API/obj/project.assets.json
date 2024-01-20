@@ -1021,11 +1021,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vytautas\\Desktop\\PresentConnection užduotis\\PizzaShop\\PizzaShop.API\\PizzaShop.API.csproj",
+      "projectUniqueName": "C:\\Users\\Vytautas\\Desktop\\PizzaShop\\PizzaShop\\PizzaShop.API\\PizzaShop.API.csproj",
       "projectName": "PizzaShop.API",
-      "projectPath": "C:\\Users\\Vytautas\\Desktop\\PresentConnection užduotis\\PizzaShop\\PizzaShop.API\\PizzaShop.API.csproj",
+      "projectPath": "C:\\Users\\Vytautas\\Desktop\\PizzaShop\\PizzaShop\\PizzaShop.API\\PizzaShop.API.csproj",
       "packagesPath": "C:\\Users\\Vytautas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vytautas\\Desktop\\PresentConnection užduotis\\PizzaShop\\PizzaShop.API\\obj\\",
+      "outputPath": "C:\\Users\\Vytautas\\Desktop\\PizzaShop\\PizzaShop\\PizzaShop.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1047,11 +1047,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Vytautas\\Desktop\\PresentConnection užduotis\\PizzaShop\\PizzaShop.Database\\PizzaShop.Data.csproj": {
-              "projectPath": "C:\\Users\\Vytautas\\Desktop\\PresentConnection užduotis\\PizzaShop\\PizzaShop.Database\\PizzaShop.Data.csproj"
-            },
-            "C:\\Users\\Vytautas\\Desktop\\PresentConnection užduotis\\PizzaShop\\PizzaShop.Data\\PizzaShop.Data.csproj": {
-              "projectPath": "C:\\Users\\Vytautas\\Desktop\\PresentConnection užduotis\\PizzaShop\\PizzaShop.Data\\PizzaShop.Data.csproj"
+            "C:\\Users\\Vytautas\\Desktop\\PizzaShop\\PizzaShop\\PizzaShop.Data\\PizzaShop.Data.csproj": {
+              "projectPath": "C:\\Users\\Vytautas\\Desktop\\PizzaShop\\PizzaShop\\PizzaShop.Data\\PizzaShop.Data.csproj"
             }
           }
         }

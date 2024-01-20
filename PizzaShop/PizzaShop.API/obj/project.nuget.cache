@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zlR93QvaLq6hxoDf/neQrUMEt31NYm527bYH5UlsWFb/IvxB/VNKkRbz/r4xu2EclBz9AnpFWdIyjn+vgv3CFQ==",
+  "dgSpecHash": "GkYsnFJeaiW4fG4xube0zC9heBv42dUqdUDoUjrLrHzGB1W/ALX92j2+zIBY9Q6/AsJad5YqYrxaF3OscytYfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vytautas\\Desktop\\PresentConnection užduotis\\PizzaShop\\PizzaShop.API\\PizzaShop.API.csproj",
+  "projectFilePath": "C:\\Users\\Vytautas\\Desktop\\PizzaShop\\PizzaShop\\PizzaShop.API\\PizzaShop.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vytautas\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\Vytautas\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.15\\microsoft.entityframeworkcore.7.0.15.nupkg.sha512",

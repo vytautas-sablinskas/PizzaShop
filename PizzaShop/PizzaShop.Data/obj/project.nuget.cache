@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F5BFEs3+bfOXZRmuNaSIlQevCJC3rbOLUj/ioOMsqsvIkvxLqFePTdnJlARmZ1cKofbqhWHuT0ZbZxPo1MbQ2A==",
+  "dgSpecHash": "vKO3h2JmG5t588g98VnK5SpNSYZH7Qv9ZqHn4tDddj9Zxqq0YMgCagoxXQVI/TRyC3nqhtwr+oVrfAvtTGuiYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vytautas\\Desktop\\PresentConnection užduotis\\PizzaShop\\PizzaShop.Data\\PizzaShop.Data.csproj",
+  "projectFilePath": "C:\\Users\\Vytautas\\Desktop\\PizzaShop\\PizzaShop\\PizzaShop.Data\\PizzaShop.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vytautas\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.15\\microsoft.entityframeworkcore.7.0.15.nupkg.sha512",
     "C:\\Users\\Vytautas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.15\\microsoft.entityframeworkcore.abstractions.7.0.15.nupkg.sha512",
