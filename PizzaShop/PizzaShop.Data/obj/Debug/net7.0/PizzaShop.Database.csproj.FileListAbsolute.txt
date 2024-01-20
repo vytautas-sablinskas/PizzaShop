@@ -1,0 +1,12 @@
+C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Database\bin\Debug\net7.0\PizzaShop.Database.deps.json
+C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Database\bin\Debug\net7.0\PizzaShop.Database.dll
+C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Database\bin\Debug\net7.0\PizzaShop.Database.pdb
+C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Database\obj\Debug\net7.0\PizzaShop.Database.csproj.AssemblyReference.cache
+C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Database\obj\Debug\net7.0\PizzaShop.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Database\obj\Debug\net7.0\PizzaShop.Database.AssemblyInfoInputs.cache
+C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Database\obj\Debug\net7.0\PizzaShop.Database.AssemblyInfo.cs
+C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Database\obj\Debug\net7.0\PizzaShop.Database.csproj.CoreCompileInputs.cache
+C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Database\obj\Debug\net7.0\PizzaShop.Database.dll
+C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Database\obj\Debug\net7.0\refint\PizzaShop.Database.dll
+C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Database\obj\Debug\net7.0\PizzaShop.Database.pdb
+C:\Users\Vytautas\Desktop\PresentConnection užduotis\PizzaShop\PizzaShop.Database\obj\Debug\net7.0\ref\PizzaShop.Database.dll

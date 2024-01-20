@@ -1,0 +1,3 @@
+type PizzaToppingType = {
+    name: string;
+}
